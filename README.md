@@ -1,2 +1,2 @@
 # Rent-A-Car-Management-System
-Rent-A-Car Management System
+The Rent-A-Car Management System is a Windows-based desktop software designed to automate car rental operations. It helps administrators manage vehicles, customers, car owners, bookings, and payments in one place. With secure login, an easy dashboard, and modules for booking, customer, owner, and car inventory management, it ensures efficiency and accuracy. Future upgrades include mobile app, online payments, AI suggestions, and GPS tracking.
